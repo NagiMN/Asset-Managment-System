@@ -1,0 +1,549 @@
+--CARO_system_user
+
+INSERT INTO [dbo].[CARO_system_user]
+           ([personel_id]
+           ,[job_category_id]
+           ,[user_name]
+           ,[user_password]
+           ,[user_first_name]
+           ,[user_last_name]
+           ,[date_of_hire]
+		,[user_phone_number]
+           ,[user_email]
+		,[clearance_level]
+		,[isActive])
+     VALUES
+           (2356789
+		   ,'A'
+		   ,'Rick'
+		   ,'James'
+		   ,'RickisNumber1'
+		   ,'James'
+		   ,'2000-03-14'
+		   ,'1234567890'
+		   ,'RickHames@gmail.com'
+		   ,0
+		   ,1)
+GO
+
+INSERT INTO [dbo].[CARO_system_user]
+           ([personel_id]
+           ,[job_category_id]
+           ,[user_name]
+           ,[user_password]
+           ,[user_first_name]
+           ,[user_last_name]
+           ,[date_of_hire]
+		,[user_phone_number]
+           ,[user_email]
+		,[clearance_level]
+		,[isActive])
+     VALUES
+           (2356999
+		   ,'O'
+		   ,'Ela'
+		   ,'James'
+		   ,'Ela'
+		   ,'James'
+		   ,'2015-03-14'
+		   ,'1234567890'
+		   ,'ElaJames@gmail.com'
+		   ,1
+		   ,0)
+GO
+
+INSERT INTO [dbo].[CARO_system_user]
+           ([personel_id]
+           ,[job_category_id]
+           ,[user_name]
+           ,[user_password]
+           ,[user_first_name]
+           ,[user_last_name]
+           ,[date_of_hire]
+		,[user_phone_number]
+           ,[user_email]
+		,[clearance_level]
+		,[isActive])
+     VALUES
+           (2354444
+		   ,'O'
+		   ,'Sue'
+		   ,'Bird'
+		   ,'Suzy'
+		   ,'Birdy'
+		   ,'2011-01-14'
+		   ,'1234567890'
+		   ,'SueBird@gmail.com'
+		   ,1
+		   ,1)
+GO
+
+INSERT INTO [dbo].[CARO_system_user]
+           ([personel_id]
+           ,[job_category_id]
+           ,[user_name]
+           ,[user_password]
+           ,[user_first_name]
+           ,[user_last_name]
+           ,[date_of_hire]
+		,[user_phone_number]
+           ,[user_email]
+		,[clearance_level]
+		,[isActive])
+     VALUES
+           (2351236
+		   ,'O'
+		   ,'Helen'
+		   ,'James'
+		   ,'Helen'
+		   ,'James'
+		   ,'2020-03-14'
+		   ,'1234567890'
+		   ,'HelenHames@gmail.com'
+		   ,1
+		   ,0)
+GO
+
+INSERT INTO [dbo].[CARO_system_user]
+           ([personel_id]
+           ,[job_category_id]
+           ,[user_name]
+           ,[user_password]
+           ,[user_first_name]
+           ,[user_last_name]
+           ,[date_of_hire]
+		,[user_phone_number]
+           ,[user_email]
+		,[clearance_level]
+		,[isActive])
+     VALUES
+           (2351111
+		   ,'O'
+		   ,'Rick'
+		   ,'Smoothy'
+		   ,'Ricky'
+		   ,'Smooth'
+		   ,'2022-03-14'
+		   ,'1234567890'
+		   ,'Rick@gmail.com'
+		   ,1
+		   ,1)
+GO
+
+INSERT INTO [dbo].[CARO_system_user]
+           ([personel_id]
+           ,[job_category_id]
+           ,[user_name]
+           ,[user_password]
+           ,[user_first_name]
+           ,[user_last_name]
+           ,[date_of_hire]
+		,[user_phone_number]
+           ,[user_email]
+		,[clearance_level]
+		,[isActive])
+     VALUES
+           (4282722
+		   ,'O'
+		   ,'Samantha'
+		   ,'Rue'
+		   ,'Sammy'
+		   ,'Rue'
+		   ,'2007-03-14'
+		   ,'1234567890'
+		   ,'Sams@gmail.com'
+		   ,1
+		   ,1)
+GO
+
+INSERT INTO [dbo].[CARO_system_user]
+           ([personel_id]
+           ,[job_category_id]
+           ,[user_name]
+           ,[user_password]
+           ,[user_first_name]
+           ,[user_last_name]
+           ,[date_of_hire]
+		,[user_phone_number]
+           ,[user_email]
+		,[clearance_level]
+		,[isActive])
+     VALUES
+           (34575
+		   ,'O'
+		   ,'Chris'
+		   ,'Brown'
+		   ,'Breezy'
+		   ,'fenty'
+		   ,'2003-03-14'
+		   ,'1234567890'
+		   ,'Chriss@gmail.com'
+		   ,1
+		   ,0)
+GO
+
+INSERT INTO [dbo].[CARO_system_user]
+           ([personel_id]
+           ,[job_category_id]
+           ,[user_name]
+           ,[user_password]
+           ,[user_first_name]
+           ,[user_last_name]
+           ,[date_of_hire]
+		,[user_phone_number]
+           ,[user_email]
+		,[clearance_level]
+		,[isActive])
+     VALUES
+           (253939
+		   ,'O'
+		   ,'Betty'
+		   ,'White'
+		   ,'Betty'
+		   ,'White'
+		   ,'1980-03-14'
+		   ,'1234567890'
+		   ,'BettyWhite@gmail.com'
+		   ,1
+		   ,0)
+GO
+
+INSERT INTO [dbo].[CARO_system_user]
+           ([personel_id]
+           ,[job_category_id]
+           ,[user_name]
+           ,[user_password]
+           ,[user_first_name]
+           ,[user_last_name]
+           ,[date_of_hire]
+		,[user_phone_number]
+           ,[user_email]
+		,[clearance_level]
+		,[isActive])
+     VALUES
+           (3527252
+		   ,'O'
+		   ,'Mike'
+		   ,'Tyson'
+		   ,'MikeT'
+		   ,'Tyson'
+		   ,'1990-07-14'
+		   ,'1234567890'
+		   ,'MikeTy@gmail.com'
+		   ,1
+		   ,0)
+GO
+
+INSERT INTO [dbo].[CARO_system_user]
+           ([personel_id]
+           ,[job_category_id]
+           ,[user_name]
+           ,[user_password]
+           ,[user_first_name]
+           ,[user_last_name]
+           ,[date_of_hire]
+		,[user_phone_number]
+           ,[user_email]
+		,[clearance_level]
+		,[isActive])
+     VALUES
+           (935343
+		   ,'A'
+		   ,'Karen'
+		   ,'OHearn'
+		   ,'Karen'
+		   ,'oh'
+		   ,'2010-03-14'
+		   ,'1234567890'
+		   ,'Karens@gmail.com'
+		   ,0
+		   ,1)
+GO
+
+INSERT INTO [dbo].[CARO_system_user]
+           ([personel_id]
+           ,[job_category_id]
+           ,[user_name]
+           ,[user_password]
+           ,[user_first_name]
+           ,[user_last_name]
+           ,[date_of_hire]
+		,[user_phone_number]
+           ,[user_email]
+		,[clearance_level]
+		,[isActive])
+     VALUES
+           (1543838
+		   ,'O'
+		   ,'Smithy'
+		   ,'Wade'
+		   ,'Smith'
+		   ,'#$#@12DD'
+		   ,'2003-03-14'
+		   ,'1234567890'
+		   ,'Smiths@gmail.com'
+		   ,1
+		   ,1)
+GO
+
+INSERT INTO [dbo].[CARO_system_user]
+           ([personel_id]
+           ,[job_category_id]
+           ,[user_name]
+           ,[user_password]
+           ,[user_first_name]
+           ,[user_last_name]
+           ,[date_of_hire]
+		,[user_phone_number]
+           ,[user_email]
+		,[clearance_level]
+		,[isActive])
+     VALUES
+           (000005
+		   ,'A'
+		   ,'admin'
+		   ,'password'
+		   ,'admin'
+		   ,'admin'
+		   ,GETDATE()
+		   ,'1234567890'
+		   ,'admin@admin,com'
+		   ,0
+		   ,1)
+GO
+
+INSERT INTO [dbo].[CARO_system_user]
+           ([personel_id]
+           ,[job_category_id]
+           ,[user_name]
+           ,[user_password]
+           ,[user_first_name]
+           ,[user_last_name]
+           ,[date_of_hire]
+		,[user_phone_number]
+           ,[user_email]
+		,[clearance_level]
+		,[isActive])
+     VALUES
+           (000002
+		   ,'A'
+		   ,'admin1'
+		   ,'password'
+		   ,'admin1'
+		   ,'admin1'
+		   ,GETDATE()
+		   ,'0234567890'
+		   ,'admin1@admin,com'
+		   ,0
+		   ,1)
+GO
+
+INSERT INTO [dbo].[CARO_system_user]
+           ([personel_id]
+           ,[job_category_id]
+           ,[user_name]
+           ,[user_password]
+           ,[user_first_name]
+           ,[user_last_name]
+           ,[date_of_hire]
+		,[user_phone_number]
+           ,[user_email]
+		,[clearance_level]
+		,[isActive])
+     VALUES
+           (0000100
+		   ,'O'
+		   ,'JSmith'
+		   ,'password'
+		   ,'John'
+		   ,'Smith'
+		   ,GETDATE()
+		   ,'1111111111'
+		   ,'jsmith@user,com'
+		   ,1
+		   ,1)
+GO
+
+INSERT INTO [dbo].[CARO_system_user]
+           ([personel_id]
+           ,[job_category_id]
+           ,[user_name]
+           ,[user_password]
+           ,[user_first_name]
+           ,[user_last_name]
+           ,[date_of_hire]
+		,[user_phone_number]
+           ,[user_email]
+		,[clearance_level]
+		,[isActive])
+     VALUES
+           (0000101
+		   ,'O'
+		   ,'NThompson'
+		   ,'password'
+		   ,'Nathan'
+		   ,'Thompson'
+		   ,GETDATE()
+		   ,'2222222222'
+		   ,'nthompson@user,com'
+		   ,1
+		   ,1)
+GO
+
+INSERT INTO [dbo].[CARO_system_user]
+           ([personel_id]
+           ,[job_category_id]
+           ,[user_name]
+           ,[user_password]
+           ,[user_first_name]
+           ,[user_last_name]
+           ,[date_of_hire]
+		,[user_phone_number]
+           ,[user_email]
+		,[clearance_level]
+		,[isActive])
+     VALUES
+           (0000102
+		   ,'O'
+		   ,'MJohnson'
+		   ,'password'
+		   ,'Mike'
+		   ,'Johnson'
+		   ,GETDATE()
+		   ,'2222222222'
+		   ,'mjohnson@user,com'
+		   ,1
+		   ,1)
+GO
+
+INSERT INTO [dbo].[CARO_system_user]
+           ([personel_id]
+           ,[job_category_id]
+           ,[user_name]
+           ,[user_password]
+           ,[user_first_name]
+           ,[user_last_name]
+           ,[date_of_hire]
+		,[user_phone_number]
+           ,[user_email]
+		,[clearance_level]
+		,[isActive])
+     VALUES
+           (0000103
+		   ,'O'
+		   ,'TParker'
+		   ,'password'
+		   ,'Tom'
+		   ,'Parker'
+		   ,GETDATE()
+		   ,'4444444444'
+		   ,'tparker@user,com'
+		   ,1
+		   ,1)
+GO
+
+INSERT INTO [dbo].[CARO_system_user]
+           ([personel_id]
+           ,[job_category_id]
+           ,[user_name]
+           ,[user_password]
+           ,[user_first_name]
+           ,[user_last_name]
+           ,[date_of_hire]
+		,[user_phone_number]
+           ,[user_email]
+		,[clearance_level]
+		,[isActive])
+     VALUES
+           (0000104
+		   ,'O'
+		   ,'GWilliams'
+		   ,'password'
+		   ,'George'
+		   ,'Williams'
+		   ,GETDATE()
+		   ,'5555555555'
+		   ,'gwilliams@user,com'
+		   ,1
+		   ,1)
+GO
+
+INSERT INTO [dbo].[CARO_system_user]
+           ([personel_id]
+           ,[job_category_id]
+           ,[user_name]
+           ,[user_password]
+           ,[user_first_name]
+           ,[user_last_name]
+           ,[date_of_hire]
+		   ,[user_phone_number]
+           ,[user_email]
+		   ,[isActive]
+		   ,[clearance_level])
+     VALUES
+           (0000001
+		   ,'A' --admin
+		   ,'john'
+		   ,'password'
+		   ,'John'
+		   ,'Doe'
+		   , GETDATE()
+		   ,'1234567890'
+		   ,'JohnDoe@gmail.com'
+		   ,1
+		   ,0)
+GO
+
+
+INSERT INTO [dbo].[CARO_system_user]
+           ([personel_id]
+           ,[job_category_id]
+           ,[user_name]
+           ,[user_password]
+           ,[user_first_name]
+           ,[user_last_name]
+           ,[date_of_hire]
+		   ,[user_phone_number]
+           ,[user_email]
+		   ,[isActive]
+		   ,[clearance_level])
+     VALUES
+           (90000001
+		   ,'A' --admin
+		   ,'test'
+		   ,'test'
+		   ,'test'
+		   ,'test'
+		   , GETDATE()
+		   ,'1234567890'
+		   ,'test@gmail.com'
+		   ,1
+		   ,0)
+GO
+
+
+INSERT INTO [dbo].[CARO_system_user]
+           ([personel_id]
+           ,[job_category_id]
+           ,[user_name]
+           ,[user_password]
+           ,[user_first_name]
+           ,[user_last_name]
+           ,[date_of_hire]
+		   ,[user_phone_number]
+           ,[user_email]
+		   ,[isActive]
+		   ,[clearance_level])
+     VALUES
+           (999001
+		   ,'O' --operational
+		   ,'inactive'
+		   ,'inactive'
+		   ,'in'
+		   ,'active'
+		   , GETDATE()
+		   ,'1234567890'
+		   ,'test@gmail.com'
+		   ,0
+		   ,1)
+GO

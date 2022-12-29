@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"ca.caro.assetmanagement.database"},{"l":"ca.caro.assetmanagement.entity"},{"l":"ca.caro.assetmanagement.servlet.controller"},{"l":"ca.caro.assetmanagement.systemadministration"}]
