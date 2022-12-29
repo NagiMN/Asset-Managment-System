@@ -1,7 +1,7 @@
 # Asset-Managment-System
 
 ## Project Overview
-In order to manage CARO Analytical Systems investment and provide strategies and tools to help maintain the company assets we build a new 
+In order to manage CARO Analytical System investment and provide strategies and tools to help maintain the company assets we build a new 
 Asset Management System to keep information on its tangible and intangible assets with the ability to manage that data. 
 
 We build a web-based application that will help the user to interact with a friendly user interface to fulfill client specified functions 
